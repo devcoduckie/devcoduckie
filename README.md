@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Duckie</h1>
 <h3 align="center">A software engineer who's always learning!</h3>
 
-- 🔭 I’m currently working on [betterbookmarks](devcoduckie/better-bookmarks)
+- 🔭 I’m currently working on **finishing school** and **Scrimba's Frontend Bootcamp!**
 
 - 🌱 I’m currently learning **Typescript, React, Next.js**
 
 - 👯 I’m looking to collaborate on **open-source projects**
-
-- 🧑‍💻 All of my projects are available at [devcoduckie.github.io](devcoduckie.github.io)
 
 - 💬 Ask me about **DuckyDevCo**
 
