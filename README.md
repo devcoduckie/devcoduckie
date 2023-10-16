@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duckie</h1>
 <h3 align="center">A software engineer who's always learning!</h3>
 
-- 🔭 I’m currently working on [betterbookmarks](/better-bookmarks)
+- 🔭 I’m currently working on [betterbookmarks](devcoduckie/better-bookmarks)
 
 - 🌱 I’m currently learning **Typescript, React, Next.js**
 
